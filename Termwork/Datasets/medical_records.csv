@@ -1,0 +1,9 @@
+patient_id,disease,doctor_name,visit_date,blood_pressure,cholesterol,sugar_level,visit_cost
+1,Diabetes,Dr. Sharma,1/10/2025,140/90,220,79,1200
+2,Hypertension,Dr. Verma,1/12/2025,150/95,240,99,1500
+3,Asthma,Dr. Khan,1/15/2025,120/80,180,100,2200
+4,Diabetes,Dr. Sharma,1/18/2025,145/92,230,,1800
+5,Heart Disease,Dr. Mehta,1/20/2025,160/100,260,89,1600
+6,Hypertension,Dr. Verma,1/12/2025,155/98,245,79,1400
+7,Asthma,Dr. Khan,1/25/2025,118/78,175,92,1600
+8,Diabetes,Dr. Sharma,1/28/2025,142/91,225,104,1800

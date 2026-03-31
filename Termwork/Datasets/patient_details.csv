@@ -1,0 +1,9 @@
+patient_id,patient_name,age,gender,city,height,weight
+1,Aman,45,male,Delhi,170,70
+2,Riya,50,F,Mumbai,160,65
+3,,-30,M,Pune,175,75
+4,Neha,42,Female,Chennai,165,68
+5,Rahul,55,M,Kolkata,"""172""",80
+6,Simran,-40,f,Jaipur,158,60
+7,Arjun,28,M,Lucknow,180,78
+8,Priya,35,female,Delhi,162,58
